@@ -1,7 +1,9 @@
-[
-  {
-    "license": "VIP-2025-001-ARLLON",
-    "user": haha,
-    "active": true
-  }
-]
+{
+  "licencas_ativas": [
+    "caval",
+    "PRO9999-XXXX-8888-YYYY"
+  ],
+  "ultima_atualizacao": "2024-01-01",
+  "sistema": "Controle de Clientes PRO",
+  "versao": "2.0"
+}
