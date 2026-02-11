@@ -1,16 +1,11 @@
-[
-  {
-    "clientId": "001",
-    "name": "NOME DO CLIENTE",
-    "licenseKey": "CHAVE-DE-LICENÇA",
-    "email": "cliente@email.com",
-    "active": true
-  },
-  {
-    "clientId": "002",
-    "name": "OUTRO CLIENTE", 
-    "licenseKey": "OUTRA-CHAVE",
-    "email": "outro@email.com",
-    "active": true
-  }
-]
+{
+  "licenses": [
+    {
+      "clientId": "001",
+      "clientName": "NOME DO CLIENTE",
+      "key": "CHAVE-DE-LICENÇA",
+      "email": "cliente@email.com",
+      "active": true
+    }
+  ]
+}
