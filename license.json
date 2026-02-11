@@ -1,26 +1,16 @@
-{
-  "licenses": [
-    {
-      "clientId": "cli-001",
-      "name": "JOÃO SILVA",
-      "licenseKey": "LEVELUP-2024-001-A1B2",
-      "email": "joao@email.com",
-      "active": true,
-      "createdAt": "2024-01-15",
-      "expiresAt": "2024-12-31"
-    },
-    {
-      "clientId": "cli-002", 
-      "name": "MARIA SOUZA",
-      "licenseKey": "PREMIUM-ACCESS-2024",
-      "email": "maria@email.com",
-      "active": true,
-      "createdAt": "2024-01-20"
-    }
-  ],
-  "metadata": {
-    "totalLicenses": 2,
-    "lastUpdated": "2024-01-20T10:00:00Z",
-    "version": "1.0"
+[
+  {
+    "clientId": "001",
+    "name": "NOME DO CLIENTE",
+    "licenseKey": "CHAVE-DE-LICENÇA",
+    "email": "cliente@email.com",
+    "active": true
+  },
+  {
+    "clientId": "002",
+    "name": "OUTRO CLIENTE", 
+    "licenseKey": "OUTRA-CHAVE",
+    "email": "outro@email.com",
+    "active": true
   }
-}
+]
